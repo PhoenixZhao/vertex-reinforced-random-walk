@@ -1,4 +1,4 @@
-# Social Explorative Attention Networks (SEAN)
+# Vertex Reinforced Random Walk for Network Embedding (reinforce2vec)
 
 This repository provides a reference implementation of *reinforce2vec* as described in the paper in SDM 2020:<br>
 > Vertex-reinforced Random Walk for Network Embedding.<br>
